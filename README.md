@@ -1,3 +1,8 @@
+# PokéFilter ![favicon-32x32](https://user-images.githubusercontent.com/86436938/213903415-b4c46084-eba4-4b23-93c3-05d86805e46f.png)
+
+## Workshop Description:
+This workshop is meant as an introduction to React, Tailwind CSS and APIs through Axios
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
